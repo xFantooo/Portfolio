@@ -31,7 +31,6 @@ li {
 }
 
 #ImagePrincipale {
-<<<<<<< HEAD
   background-image: url(joshua-aragon-BMnhuwFYr7w-unsplash.jpg);
   background-repeat: no-repeat;
   background-position: 50% 50%;
@@ -45,12 +44,6 @@ H1 {
   text-align: center;
   padding-top: 30px;
   font-size: 3em;
-=======
-  padding-top: 60px;
-  background: url(image-principale.jpg) no-repeat fixed 50% 50%;
-  background-size: cover;
-  height: 799px;
->>>>>>> feature/01
 }
 
 h1 {
