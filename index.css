@@ -17,10 +17,11 @@ ul {
 
 nav {
   overflow: hidden;
-  background-color: rgba(2, 252, 239, 0.781);
+  background-color: rgba(252, 2, 119, 0.781);
   position: fixed;
   width: 100%;
   opacity: 0.9;
+  padding: 10px;
 }
 
 header li {
@@ -40,14 +41,14 @@ li {
 }
 
 #ImagePrincipale {
-  background-image: url(joshua-aragon-BMnhuwFYr7w-unsplash.jpg);
+  background-image: url(collage-arriere-plan-programmation_23-2149901788.jpg);
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  padding-top: 60px;
+  padding-top: 70px;
   background-size: cover;
-  height: 500px;
+  height: 900px;
   width: 100%;
-  margin: 40px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
 }
 
 h1 {
@@ -75,4 +76,15 @@ h3 {
   font-size: 3em;
   text-shadow: 6px 2px 2px #000000;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#profileImage {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin: 0px 0px 0px 0px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url();
 }
