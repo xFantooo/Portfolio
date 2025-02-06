@@ -5,45 +5,29 @@
   src: url(./assets/fonts/Tektur-VariableFont_wdth\wght.ttf);
 }
 
-body {
-  font-family: "tektur";
-  padding: 0;
-  margin: 0;
-}
-ul {
-  margin: 0;
-  padding: 0;
-}
-
-header li {
-  float: right;
-  font-size: 1.2rem;
-}
-header li a {
-  text-decoration: none;
-  display: block;
-  text-align: center;
-  padding: 18px 16px;
-}
-
 li {
   list-style-type: none;
 }
 
-#ImagePrincipale {
-  padding-top: 60px;
-  background: url(image-principale.jpg) no-repeat fixed 50% 50%;
-  background-size: cover;
-  height: 799px;
+H1 {
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 30px;
+  font-size: 3em;
 }
 
-h1 {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+h2 {
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 30px;
+  font-size: 2em;
+}
+H3 {
   text-align: center;
   color: rgb(255, 255, 255);
+  font-size: 3em;
   text-shadow: 6px 2px 2px #000000;
-  font-size: 4em;
-  margin: 90px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 #Premiertrait {
   height: 3px;
@@ -51,11 +35,4 @@ h1 {
   margin: -1px auto;
   background-color: rgb(255, 255, 255);
   box-shadow: 6px 2px 2px #000000;
-}
-h3 {
-  text-align: center;
-  color: rgb(255, 255, 255);
-  font-size: 3em;
-  text-shadow: 6px 2px 2px #000000;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
