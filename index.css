@@ -9,6 +9,15 @@ li {
   list-style-type: none;
 }
 
+#ImagePrincipale {
+  background-image: url(joshua-aragon-BMnhuwFYr7w-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  padding-top: 60px;
+  background-size: cover;
+  height: 799px;
+}
+
 H1 {
   text-transform: uppercase;
   text-align: center;
